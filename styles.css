@@ -1,5 +1,9 @@
 /** CSS Reset */
 /* You can keep or remove this, if you'd like */
+
+body{
+  text-align: center;
+}
 *,
 *::before,
 *::after {
